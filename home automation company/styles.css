@@ -84,7 +84,7 @@ body {
     color: white;
     text-align: center;
     padding: 2rem;
-    margin-top: 0px;
+   
 }
 
 .hero-content {
@@ -501,7 +501,7 @@ body {
     }
     .hero {
         height: 80vh;
-        margin-top: 60px;
+      
         padding: 1rem;
     }
     .hero-content {
